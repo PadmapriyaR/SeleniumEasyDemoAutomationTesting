@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15076" started-at="2019-06-10T14:23:49Z" finished-at="2019-06-10T14:24:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15076" started-at="2019-06-10T14:23:49Z" finished-at="2019-06-10T14:24:04Z">
+      <class name="com.seleniumeasy.tests.SimpleFormDemoPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumeasy.tests.SimpleFormDemoPageTest@2ef5e5e3]" name="setUp" is-config="true" duration-ms="7806" started-at="2019-06-10T19:53:49Z" finished-at="2019-06-10T19:53:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateEnteredMsg()[pri:0, instance:com.seleniumeasy.tests.SimpleFormDemoPageTest@2ef5e5e3]" name="validateEnteredMsg" duration-ms="494" started-at="2019-06-10T19:53:57Z" finished-at="2019-06-10T19:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEnteredMsg -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.seleniumeasy.tests.SimpleFormDemoPageTest@2ef5e5e3]" name="tearDown" is-config="true" duration-ms="678" started-at="2019-06-10T19:53:58Z" finished-at="2019-06-10T19:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.seleniumeasy.tests.SimpleFormDemoPageTest@2ef5e5e3]" name="setUp" is-config="true" duration-ms="4667" started-at="2019-06-10T19:53:58Z" finished-at="2019-06-10T19:54:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateAddition()[pri:0, instance:com.seleniumeasy.tests.SimpleFormDemoPageTest@2ef5e5e3]" name="validateAddition" duration-ms="761" started-at="2019-06-10T19:54:03Z" finished-at="2019-06-10T19:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddition -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.seleniumeasy.tests.SimpleFormDemoPageTest@2ef5e5e3]" name="tearDown" is-config="true" duration-ms="650" started-at="2019-06-10T19:54:04Z" finished-at="2019-06-10T19:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.seleniumeasy.tests.SimpleFormDemoPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
