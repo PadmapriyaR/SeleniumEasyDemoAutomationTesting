@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+  
+<suite name="SeleniumEasyDemoPage" verbose="1" >
+  <test name="SeleniumEasyDemoAutomation" >
+    <classes>
+       <class name="com.seleniumeasy.tests.SimpleFormDemoPageTest" />
+       <class name="com.seleniumeasy.tests.CheckBoxDemoPageTest" />
+    </classes>
+  </test>
+</suite>

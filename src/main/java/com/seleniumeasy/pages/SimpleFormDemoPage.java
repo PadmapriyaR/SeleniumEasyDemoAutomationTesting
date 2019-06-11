@@ -47,5 +47,13 @@ public class SimpleFormDemoPage extends TestBase{
 		getTotalBtn.click();
 		return Integer.parseInt(additionalValue.getText());
 	}
+	
+	public String negScenarioForAddingValues(){
+		aValue.sendKeys("aa11!");
+		bValue.sendKeys("111");
+		getTotalBtn.click();
+		return additionalValue.getText();
+		
+	}
 
 }
